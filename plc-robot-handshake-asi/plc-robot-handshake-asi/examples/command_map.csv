@@ -1,0 +1,7 @@
+CommandCode,CommandName,Description
+1,Reset,Reset cell or robot fault state
+2,Home,Send robot to home position
+3,Start Cycle,Begin automatic cycle
+4,Stop Cycle,Stop automatic cycle
+5,Open Gripper,Open end effector
+6,Close Gripper,Close end effector
